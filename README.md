@@ -7,7 +7,7 @@
 
 <h4>I am a technical writer (sometimes called a technical communications professional, documentarian, or programmer writer depending on the company or project). I am passionate about bridging gaps between developers, technology, and general users. I believe that proper documentation is essential for the success of any technological endeavor, and I enjoy helping stakeholders produce the best documentation possible.</h4>
 
-<h4>I am enthusiastic about taking up new challenges and learning new skills. I am a research-oriented technologist with a love for innovative problem-solving. Currently, I am focusing on improving my coding skills. If you need a talented and thorough technical writer on your team, <a href="#🙋‍♀️-lets-connect">let's connect!</a></h4>
+<h4>I am enthusiastic about taking up new challenges and learning new skills. I am a research-oriented technologist with a love for innovative problem-solving. Currently, I am focusing on improving my coding skills. If you need a talented and thorough technical writer on your team, let's connect!</h4>
 
 ## 🛠️ My Skills
 
