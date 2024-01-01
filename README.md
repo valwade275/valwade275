@@ -7,16 +7,7 @@
 
 <h4>I am a technical writer (sometimes called a technical communications professional, documentarian, or programmer writer depending on the company or project). I am passionate about bridging gaps between developers, technology, and general users. I believe that proper documentation is essential for the success of any technological endeavor, and I enjoy helping stakeholders produce the best documentation possible.</h4>
 
-<h4>I am enthusiastic about taking up new challenges and learning new skills. I'm a research-oriented technologist with a love for innovative problem-solving. Currently, I am focusing on improving my coding skills. I am open to collaborating and exploring new opportunities. If you need a talented and thorough technical writer on your team, let's connect!</h4>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h4>I am enthusiastic about taking up new challenges and learning new skills. I'm a research-oriented technologist with a love for innovative problem-solving. Currently, I am focusing on improving my coding skills. I am open to collaborating and exploring new opportunities. If you need a talented and thorough technical writer on your team, [let's connect!](#🙋‍♀️-lets-connect)</h4>
 
 ## 🛠️ My Skills
 
@@ -28,12 +19,9 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-  
-  &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
-  
 &emsp; 
 </p>
 
@@ -115,11 +103,11 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Let's Connect!
 
 <p align="center">
   <a href="https://vcwade.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:valwade275@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/valwade275"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/vcwade"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+    <a href="https://github.com/valwade275"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
