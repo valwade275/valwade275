@@ -1,9 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello! I'm Valerie Wade.👋</h1>
 
 <!--
-**valwade275/valwade275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**valwade275/valwade275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<h2 align="center">Technical Writer</h2>
+
+<h4>I am a technical writer (sometimes called a technical communications professional, documentarian, or programmer writer depending on the company or project). I am passionate about bridging gaps between developers, technology, and general users. I believe that proper documentation is essential for the success of any technological endeavor, and I enjoy helping stakeholders produce the best documentation possible.</h4>
+
+<h4>I am enthusiastic about taking up new challenges and learning new skills. I'm a research-oriented technologist with a love for innovative problem-solving. Currently, I am focusing on improving my coding skills. I am open to collaborating and exploring new opportunities. If you need a talented and thorough technical writer on your team, let's connect!</h4>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
