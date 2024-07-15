@@ -17,12 +17,16 @@
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
+  </a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
+  <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
-&emsp; 
+  &emsp; 
+  <a href="https://www.ruby-lang.org/en/" target="_blank">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby%20-%23CC342D.svg?logo=ruby&logoColor=white">
+  </a>
+  &emsp;
 </p>
 
 ### 👉 Frontend Development
@@ -40,7 +44,7 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
-&emsp; 
+  &emsp; 
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -53,7 +57,6 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   &emsp;
-
 </p>
 
 ### 👉Graphic Designing
@@ -78,7 +81,7 @@
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
-&emsp; 
+  &emsp;
  </p>
 
 ### 👉 Software & Tools
@@ -109,5 +112,5 @@
   <a href="https://vcwade.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:valwade275@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://linkedin.com/in/vcwade"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-    <a href="https://github.com/valwade275"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+    <a href="https://valwade275.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
